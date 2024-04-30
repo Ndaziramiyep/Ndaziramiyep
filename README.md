@@ -12,7 +12,15 @@
 
   <h1>Languages and Tools.</h1>
   <ul>
-    <li>HTML5🌐</li>
+   <li>MySQL & MongoDB</li>
+   <li>Git & GitHub</li>
+   <li>TypeScript</li>
+   <li>Embedded JavaScript (EJS)</li>
+   <li>JavaScript</li>
+   <li>Node.js</li>
+   <li>HTML & CSS</li>
+   <li>Bootstrap (Framework)</li>
+<!--     <li>HTML5🌐</li>
     <li>CSS3🎨</li>
     <li>bootstrap💻</li>
     <li>Javascript💻</li>
@@ -27,7 +35,7 @@
     <li>C💻</li>
     <li>C++💻</li>
     <li>GitHub💻</li>
-    <li>Visual Studio Code💻</li>    
+    <li>Visual Studio Code💻</li>     -->
   </ul>
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
