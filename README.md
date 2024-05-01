@@ -7,7 +7,7 @@
      <li>Good in Communication and Collaboration.</li>
    </ul>
    <h1>Lets connect 🌐</h1>
-   Instagram<a href="https://www.instagram.com/n_patrick003/">Follow Me on Instagram✅ </a>, LinkedIn<a href="https://www.linkedin.com/in/patrick-ndaziramiye-aa4939251">Get connect on LinkedIn✅ </a>
+   Instagram <a href="https://www.instagram.com/n_patrick003/"> Follow Me on Instagram✅ </a>, LinkedIn <a href="https://www.linkedin.com/in/patrick-ndaziramiye-aa4939251"> Get connect on LinkedIn✅ </a>
    , Follow me this github🤝 <a href="https://github.com/Ndaziramiyep/">My GitHub✅ </a>
 
   <h1>Languages and Tools.</h1>
