@@ -1,6 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=ndaziramiyep&label=Profile%20views&color=0e75b6&style=flat" alt="ndaziramiyep" />
 <h1 align="center">Hi 👋, I'm Patrick Ndaziramiye</h1>
 <h3 align="center">A passionate software developer from Rwanda.</h3>
+<img align="right" alter="coding" width="400" href="https://outlane.co/wp-content/uploads/2017/10/avatar-2.png"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndaziramiyep&label=Profile%20views&color=0e75b6&style=flat" alt="ndaziramiyep" /> </p>
 
