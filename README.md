@@ -7,15 +7,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndaziramiyep&label=Profile%20views&color=0e75b6&style=flat" alt="ndaziramiyep" /> </p>
 
 
-- 👨‍💻 My portfolio is available at [https://npatrickportfolio.netlify.app/](https://npatrickportfolio.netlify.app/)
+- 👨‍💻 Visit my portfolio [https://npatrickportfolio.netlify.app/](https://npatrickportfolio.netlify.app/)
 
 - 📫 How to reach me **patrickndaziramiye03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/patrick ndaziramiye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrick ndaziramiye" height="30" width="40" /></a>
-<a href="https://fb.com/ndaziramiye patrick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ndaziramiye patrick" height="30" width="40" /></a>
-<a href="https://instagram.com/n_patrick003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n_patrick003" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/patrick-ndaziramiye-aa4939251/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrick ndaziramiye" height="30" width="40" /></a>
+<a href="https://web.facebook.com/ndaziramiye.patrick/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ndaziramiye patrick" height="30" width="40" /></a>
+<a href="https://instagram.com/n_patrick003" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n_patrick003" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
