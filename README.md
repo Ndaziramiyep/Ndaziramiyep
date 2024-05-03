@@ -2,13 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Patrick Ndaziramiye</h1>
 <h3 align="center">A passionate software developer from Rwanda.</h3>
-<img align="right" alter="coding" width="400" href="https://outlane.co/wp-content/uploads/2017/10/avatar-2.png"></img>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndaziramiyep&label=Profile%20views&color=0e75b6&style=flat" alt="ndaziramiyep" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndaziramiyep" alt="ndaziramiyep" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://npatrickportfolio.netlify.app/](https://npatrickportfolio.netlify.app/)
+- 👨‍💻 My portfolio is available at [https://npatrickportfolio.netlify.app/](https://npatrickportfolio.netlify.app/)
 
 - 📫 How to reach me **patrickndaziramiye03@gmail.com**
 
