@@ -9,7 +9,7 @@
 
 - 👨‍💻 Visit my portfolio [https://npatrickportfolio.netlify.app/](https://npatrickportfolio.netlify.app/)
 
-- 📫 How to reach me **patrickndaziramiye03@gmail.com**
+- 📫 How to reach me **https://github.com/Ndaziramiyep**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
