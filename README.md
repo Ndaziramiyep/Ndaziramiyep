@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndaziramiyep&label=Profile%20views&color=0e75b6&style=flat" alt="ndaziramiyep" /> </p>
 
 
-- 👨‍💻 Visit my portfolio [https://npatrickportfolio.netlify.app/](https://npatrickportfolio.netlify.app/)
+- 👨‍💻 Visit my portfolio <a href="https://npatrickportfolio.netlify.app" target="_blank">Here</a> <!-- [https://npatrickportfolio.netlify.app/](https://npatrickportfolio.netlify.app/) -->
 
 - 📫 How to reach me patrickndaziramiye03@gmail.com
 
